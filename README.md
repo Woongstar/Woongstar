@@ -7,3 +7,5 @@
 - Backend developer
 - 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
 - Contact me woongstardev@gmail.com
+
+![Woongstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woongstar&show_icons=true&theme=radical)
