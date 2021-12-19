@@ -1,5 +1,7 @@
-## Hi, I'm Jiwoong
+## Hi, I'm Jiwoong Yang
+
 ---
+
 ### I enjoy sharing positive vibe 
 
 
