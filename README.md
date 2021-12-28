@@ -15,7 +15,7 @@
 
 🙋‍♂️ About Me
 - ⚡️ JAVA, Python
-- Backend developer
+- Wanna be Backend developer
 - 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
 - Double majoring Big data Science
 - Contact me woongstardev@gmail.com
