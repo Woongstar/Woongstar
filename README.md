@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 🙋‍♂️ About Me
-- ⚡️ JAVA, Python
+- ⚡️ JAVA, Python, Spring , Spring boot
 - Wanna be Backend developer
 - 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
 - Double majoring Big data Science
