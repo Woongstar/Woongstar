@@ -15,7 +15,7 @@
 
 🙋‍♂️ About Me
 - ⚡️ JAVA, Python, Spring , Spring boot
-- Wanna be Backend developer
+- Backend developer, Project Manager
 - 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
 - Double majoring Big data Science
 - Contact me woongstardev@gmail.com
