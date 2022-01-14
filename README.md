@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 🙋‍♂️ About Me
-- ⚡️ JAVA, Python, Spring , Spring boot
+
+- ⚡️ JAVA, Python, Spring , Spring boot, flask , JPA, Maria DB, MYSQL
 - Backend developer, Project Manager
 - 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
 - Double majoring Big data Science
