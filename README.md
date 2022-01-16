@@ -2,7 +2,8 @@
 
 ---
 
-### I enjoy sharing positive vibe 
+### I enjoy sharing positive vibe
+### 좋은 기운을 공유하는 사람이 되고 싶습니다.
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
