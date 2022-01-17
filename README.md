@@ -22,5 +22,3 @@
 - Double majoring Big data Science
 - Contact me woongstardev@gmail.com
 - LinkedIn URL : www.linkedin.com/in/jiwoongyang
-
-![Woongstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woongstar&show_icons=true&theme=radical)
