@@ -22,5 +22,6 @@
 - Double majoring Big data Science
 - Contact me woongstardev@gmail.com
 - LinkedIn URL : www.linkedin.com/in/jiwoongyang
+- Blog : https://velog.io/@woongstar
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=woongstar&count_private=true&show_icons=true&include_all_commits=true)
