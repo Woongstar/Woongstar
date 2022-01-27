@@ -1,3 +1,6 @@
+![웅스타로고원본](https://user-images.githubusercontent.com/69667560/151376491-3e420a1a-b1b3-4a3c-8286-3bf51c8bac0e.png)
+
+
 ## Hi, I'm Jiwoong Yang
 
 ---
