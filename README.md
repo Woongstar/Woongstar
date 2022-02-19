@@ -21,7 +21,7 @@
 
 - ⚡️ JAVA, Python, Spring , Spring boot, flask , JPA, Maria DB, MYSQL
 - Backend developer, Project Manager
-- 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
+- 👨‍🎓 Majer in Computer Engineering
 - Double majoring Big data Science
 - Contact me woongstardev@gmail.com
 - LinkedIn URL : www.linkedin.com/in/jiwoongyang
