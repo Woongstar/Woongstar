@@ -19,7 +19,7 @@
 
 🙋‍♂️ About Me
 
-- ⚡️ JAVA, Python, Spring , Spring boot, flask , JPA, Maria DB, MYSQL
+- ⚡️ JAVA, Python, Spring , Spring boot, flask , JPA, Maria DB, MYSQL, Mongo DB
 - Backend developer, Project Manager
 - 👨‍🎓 Majer in Computer Engineering
 - Double majoring Big data Science
