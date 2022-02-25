@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://user-images.githubusercontent.com/69667560/151376491-3e420a1a-b1b3-4a3c-8286-3bf51c8bac0e.png" width="60%" height="400"/></p>
+<p align="center"><img src = "https://user-images.githubusercontent.com/69667560/151376491-3e420a1a-b1b3-4a3c-8286-3bf51c8bac0e.png" width="60%" height="380"/></p>
 
 
 ## Hi, I'm Jiwoong Yang
